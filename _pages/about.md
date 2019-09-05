@@ -8,21 +8,30 @@ redirect_from:
   - /about.html
 ---
 
-I am currently a research scientist at the [Facebook AI Research](https://research.fb.com/category/facebook-ai-research/) in New York City. My research interests lie in machine translation, natual language processing and in general deep learning.
+I am currently a research scientist at the [Facebook AI Research](https://research.fb.com/category/facebook-ai-research/) in New York City. My general research interests lie in applying deep learning approaches to natual language processing (NLP) problems. In particular, I am interested in building an efficient, effective and reliable neural machine translation (NMT) system for human languages.
 
-I received my Ph.D. degree in 2018 from the department of Electrical and Electronic Engineering, University of Hong Kong. I was supervised by Prof. [Victor O.K. Li](https://www.eee.hku.hk/people/vli/). Before that, I obtained my Bachelor's degree in 2014 
+I obtained my Ph.D. degree at the department of Electrical and Electronic Engineering, University of Hong Kong in 2018 and I was supervised by [Prof. Victor O.K. Li](https://www.eee.hku.hk/people/vli/). 
+I spent a wonderful time visiting the [CILVR Lab](https://wp.nyu.edu/cilvr), New York University working with [Prof. Kyunghyun Cho](http://www.kyunghyuncho.me/).
+Before that, I obtained my Bachelor's degree at the Electronic Engineering Department, Tsinghua University in 2014 with the guidance of [Prof. Ji Wu](https://www.tsinghua.edu.cn/publish/eeen/3784/2010/20101219135614305780920/20101219135614305780920_.html).
 
 
-Many of the features of dynamic content management systems (like Wordpress) can be achieved in this fashion, using a fraction of the computational resources and with far less vulnerability to hacking and DDoSing. You can also modify the theme to your heart's content without touching the content of your site. If you get to a point where you've broken something in Jekyll/HTML/CSS beyond repair, your markdown files describing your talks, publications, etc. are safe. You can rollback the changes or even delete the repository and start over -- just be sure to save the markdown files! Finally, you can also write scripts that process the structured data on the site, such as [this one](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb) that analyzes metadata in pages about talks to display [a map of every location you've given a talk](https://academicpages.github.io/talkmap.html).
+<!-- Many of the features of dynamic content management systems (like Wordpress) can be achieved in this fashion, using a fraction of the computational resources and with far less vulnerability to hacking and DDoSing. You can also modify the theme to your heart's content without touching the content of your site. If you get to a point where you've broken something in Jekyll/HTML/CSS beyond repair, your markdown files describing your talks, publications, etc. are safe. You can rollback the changes or even delete the repository and start over -- just be sure to save the markdown files! Finally, you can also write scripts that process the structured data on the site, such as [this one](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb) that analyzes metadata in pages about talks to display [a map of every location you've given a talk](https://academicpages.github.io/talkmap.html). -->
 
-Getting started
-======
-1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
+What's New?
+------
+**2019-09-03**: One paper was accepted at **NeurIPS 2019**. See you in Vancouver!<br>
+**2019-08-12**: One demo paper was accepted to present at **EMNLP2019**!<br>
+**2019-07-24**: One paper was accepted at **TACL** and will be presented in **EMNLP2019**. See you in Hong Kong!<br>
+**2019-05-14**: One paper was accepted at **ACL2019**!<br>
+**2019-03-29**: Two papers was accepted at **NAACL2019 NeuralGen Workshop**. See you in Minneapolis!<br>
+**2018-08-20**: I started my new position as a research scientist at Facebook AI Research (FAIR) in NYC.
+
+<!-- 1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
 1. Fork [this repository](https://github.com/academicpages/academicpages.github.io) by clicking the "fork" button in the top right. 
 1. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
 1. Set site-wide configuration and create content & metadata (see below -- also see [this set of diffs](http://archive.is/3TPas) showing what files were changed to set up [an example site](https://getorg-testacct.github.io) for a user with the username "getorg-testacct")
 1. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
-1. Check status by going to the repository settings, in the "GitHub pages" section
+1. Check status by going to the repository settings, in the "GitHub pages" section -->
 
 Site-wide configuration
 ------

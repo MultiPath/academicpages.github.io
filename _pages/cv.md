@@ -11,13 +11,12 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. in Electronic Engineering, Tsinghua University, 2014
+* Ph.D in Electrical and Electronic Engineering, The University of Hong Kong, 2018
 
 Work experience
 ======
-* Summer 2015: Research Assistant
+* Summer 2015: Research Intenship
   * Github University
   * Duties included: Tagging issues
   * Supervisor: Professor Git
