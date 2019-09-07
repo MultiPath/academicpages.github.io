@@ -19,7 +19,7 @@ Before that, I obtained my Bachelor's degree at the Electronic Engineering Depar
 
 What's New?
 ------
-**2019-09-03**: One paper was accepted at **NeurIPS 2019**. See you in Vancouver!<br>
+**2019-09-03**: One [paper](/publication/levenshtein-transformer) was accepted at **NeurIPS 2019**. See you in Vancouver!<br>
 **2019-08-12**: One demo paper was accepted to present at **EMNLP2019**!<br>
 **2019-07-24**: One paper was accepted at **TACL** and will be presented in **EMNLP2019**. See you in Hong Kong!<br>
 **2019-05-14**: One paper was accepted at **ACL2019**!<br>
@@ -33,7 +33,7 @@ What's New?
 1. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
 1. Check status by going to the repository settings, in the "GitHub pages" section -->
 
-Site-wide configuration
+<!-- Site-wide configuration
 ------
 The main configuration file for the site is in the base directory in [_config.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_config.yml), which defines the content in the sidebars and other site-wide features. You will need to replace the default variables with ones about yourself and your site's github repository. The configuration file for the top menu is in [_data/navigation.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_data/navigation.yml). For example, if you don't have a portfolio or blog posts, you can remove those items from that navigation.yml file to remove them from the header. 
 
@@ -55,4 +55,4 @@ Example: editing a markdown file for a talk
 
 For more info
 ------
-More info about configuring academicpages can be found in [the guide](https://academicpages.github.io/markdown/). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
+More info about configuring academicpages can be found in [the guide](https://academicpages.github.io/markdown/). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful. -->
