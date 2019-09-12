@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/improved-zero-shot
 excerpt: '**Jiatao Gu**, Yong Wang, Kyunghyun Cho, Victor O.K. Li'
 date: 2019-07-28
-venue: 'The 57th Annual Meeting of the Association for Computational Linguistics (ACL),<br>Florence, Italy'
+venue: 'The 57th Annual Meeting of the Association for Computational Linguistics (ACL)'
 ---
 
 ![png](/images/zero-shot.png)

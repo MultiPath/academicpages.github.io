@@ -4,10 +4,10 @@ collection: publications
 permalink: /publication/levenshtein-transformer
 excerpt: '**Jiatao Gu**, Changhan Wang and Jake Zhao'
 date: 2019-12-08
-venue: 'Conference on Neural Information Processing Systems (NeurIPS).<br>Vancouver, Canada'
+venue: 'Conference on Neural Information Processing Systems (NeurIPS)'
 ---
 
-![png](/images/model_levenshtein.png)
+![png](/images/model_levenshtein.png)<br>
 **Abstract** <br>
 Modern neural sequence generation models are built to either generate tokens
 step-by-step from scratch or (iteratively) modify a sequence of tokens bounded by
@@ -24,7 +24,7 @@ automatic post-editing). We further confirm the flexibility of our model by show
 a Levenshtein Transformer trained by machine translation can straightforwardly be
 used for automatic post-editing.
 
-[[arxiv]](https://arxiv.org/pdf/1905.11006.pdf) [code]
+[[paper]](https://arxiv.org/pdf/1905.11006.pdf) [code]
 
 
 Please cite as:

@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: "Experience"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -10,7 +10,7 @@ redirect_from:
 {% include base_path %}
 
 Education
-======
+-------
 * **Doctor of Philosophy**
   * Sept 2014 - Aug 2018
   * Department of Electrical and Electronic Engineering (EEE)<br>The University of Hong Kong, Hong Kong, China
@@ -24,7 +24,7 @@ Education
 
 
 Professional
-======
+-------
 * **Research Scientist**
   * Aug 2018 - Now
   * Facebook AI Research (FAIR), New York, NY, USA
@@ -58,8 +58,7 @@ Professional
   * Information and Communication Engineering<br>The University of Tokyo, Tokyo, Japan
   * Advisor: Prof. Hitoshi Iba
 
-
-Skills
+<!-- Skills
 ======
 * Skill 1
 * Skill 2
@@ -79,7 +78,7 @@ Talks
   <ul>{% for post in site.talks %}
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
-  
+   -->
 <!-- Teaching
 ======
   <ul>{% for post in site.teaching %}
@@ -87,5 +86,5 @@ Talks
   {% endfor %}</ul> -->
   
 Service and leadership
-======
-* Currently signed in to 43 different slack teams
+------
+* Program Commitee for NeurIPS; ICLR; ICML ACL; EMNLP; NAACL; AAAI; 
