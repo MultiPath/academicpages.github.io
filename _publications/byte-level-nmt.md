@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/byte-level-nmt
 excerpt: 'Changhan Wang, Kyunghyun Cho and **Jiatao Gu**'
 date: 2019-09-10
-venue: 'arxiv technical report.'
+venue: 'The Thirty-Fourth AAAI Conference on Artificial Intelligence (AAAI).'
 ---
 
 ![png](/images/byte_example.png)<br>

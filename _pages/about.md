@@ -19,6 +19,7 @@ Before that, I obtained my Bachelor's degree at the Electronic Engineering Depar
 
 What's New?
 ------
+**2019-11-10**: One [paper](/publication/byte-level-nmt) was accepted at **AAAI 2020**. See you in New York :) <br>
 **2019-09-03**: One [paper](/publication/levenshtein-transformer) was accepted at **NeurIPS 2019**. See you in Vancouver!<br>
 **2019-08-12**: One demo paper was accepted to present at **EMNLP2019**!<br>
 **2019-07-24**: One paper was accepted at **TACL** and will be presented in **EMNLP2019**. See you in Hong Kong!<br>
