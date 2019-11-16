@@ -1,6 +1,6 @@
 ---
 title: "Intelligent Time-Adaptive Transient Stability Assessment System"
-collection: publications
+collection: journals
 permalink: /publication/intelligent-system
 excerpt: 'James J.Q. Yu, David J. Hill, Albert Y. S. Lam, **Jiatao Gu** and Victor O. K. Li'
 date: 2018-01-08
