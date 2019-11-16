@@ -2,7 +2,7 @@
 title: "Meta-Learning for Low-Resource Neural Machine Translation"
 collection: publications
 permalink: /publication/meta-learning-nmt
-excerpt: '**Jiatao Gu**, Yong Wang, Yun Chen, Kyunghyung Cho and Victor O.K. Li'
+excerpt: '**Jiatao Gu**^, Yong Wang^, Yun Chen, Kyunghyung Cho and Victor O.K. Li'
 date: 2018-11-04
 venue: 'Conference on Empirical Methods in Natural Language Processing (EMNLP).'
 ---

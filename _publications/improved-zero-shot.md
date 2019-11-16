@@ -2,7 +2,7 @@
 title: "Improved Zero-shot Neural Machine Translation via Ignoring Spurious Correlations"
 collection: publications
 permalink: /publication/improved-zero-shot
-excerpt: '**Jiatao Gu**, Yong Wang, Kyunghyun Cho, Victor O.K. Li'
+excerpt: '**Jiatao Gu**^, Yong Wang^, Kyunghyun Cho, Victor O.K. Li'
 date: 2019-07-28
 venue: 'The 57th Annual Meeting of the Association for Computational Linguistics (ACL)'
 ---
