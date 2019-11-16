@@ -3,7 +3,7 @@ title: "Neural Machine Translation with Byte-Level Subwords"
 collection: publications
 permalink: /publication/byte-level-nmt
 excerpt: 'Changhan Wang, Kyunghyun Cho and **Jiatao Gu**'
-date: 2019-09-10
+date: 2020-02-07
 venue: 'The Thirty-Fourth AAAI Conference on Artificial Intelligence (AAAI).'
 ---
 
