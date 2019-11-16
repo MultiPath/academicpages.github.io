@@ -1,8 +1,10 @@
 ---
 permalink: /
 title: About Me
-excerpt: "About me"
+description: "Jiatao Gu's website"
 author_profile: true
+image:
+  feature: trees.jpg
 redirect_from: 
   - /about/
   - /about.html
