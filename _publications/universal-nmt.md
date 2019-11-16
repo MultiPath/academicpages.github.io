@@ -1,5 +1,5 @@
 ---
-title: "Universal neural machine translation for extremely low resource languages"
+title: "Universal Neural Machine Translation for Extremely Low Resource Languages"
 collection: publications
 permalink: /publication/universal-nmt
 excerpt: '**Jiatao Gu**, Hany Hassan, Jacob Devlin and Victor O.K. Li'
