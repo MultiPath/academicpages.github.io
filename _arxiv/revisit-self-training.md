@@ -2,7 +2,7 @@
 title: "Revisiting Self-Training For Neural Sequence Generation"
 collection: arxiv
 permalink: /publication/revisit-self-training
-excerpt: "Junxian He\*, **Jiatao Gu**\*, Jiajun Shen and Marc'Aurelio Ranzato"
+excerpt: "Junxian He$^*$, **Jiatao Gu**$^*$, Jiajun Shen and Marc'Aurelio Ranzato"
 date: 2019-11-15
 venue: 'arxiv.org Pre-print'
 ---
