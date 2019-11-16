@@ -1,6 +1,6 @@
 ---
 title: "Insertion-based Decoding with automatically Inferred Generation Order"
-collection: publications
+collection: journals
 permalink: /publication/insertion-based-decoding
 excerpt: '**Jiatao Gu**, Qi Liu and Kyunghyun Cho'
 date: 2019-11-04
