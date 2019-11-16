@@ -4,7 +4,7 @@ collection: arxiv
 permalink: /publication/understand_distillation
 excerpt: "Chunting Zhou^, **Jiatao Gu**^, Graham Neubig"
 date: 2019-11-07
-venue: 'arxiv.org Pre-print'
+venue: 'arxiv.org pre-print'
 ---
 
 ![png](/images/knowledge.jpg)<br>

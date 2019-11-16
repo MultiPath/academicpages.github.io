@@ -4,7 +4,7 @@ collection: arxiv
 permalink: /publication/revisit-self-training
 excerpt: "Junxian He^, **Jiatao Gu**^, Jiajun Shen and Marc'Aurelio Ranzato"
 date: 2019-09-30
-venue: 'arxiv.org Pre-print'
+venue: 'arxiv.org pre-print'
 ---
 
 ![png](/images/self_training.jpg)<br>
