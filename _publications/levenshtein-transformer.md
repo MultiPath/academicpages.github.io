@@ -24,15 +24,19 @@ automatic post-editing). We further confirm the flexibility of our model by show
 a Levenshtein Transformer trained by machine translation can straightforwardly be
 used for automatic post-editing.
 
-[[paper]](https://arxiv.org/pdf/1905.11006.pdf) [code]
+[[paper]](https://papers.nips.cc/paper/9297-levenshtein-transformer.pdf) [[code]](https://github.com/pytorch/fairseq/blob/master/examples/nonautoregressive_translation/README.md)
 
 
 Please cite as:
 ```bibtex
-@article{gu2019levenshtein,
-  title={Levenshtein Transformer},
-  author={Gu, Jiatao and Wang, Changhan and Zhao, Jake},
-  journal={arXiv preprint arXiv:1905.11006},
-  year={2019}
+@incollection{NIPS2019_9297,
+    title = {Levenshtein Transformer},
+    author = {Gu, Jiatao and Wang, Changhan and Zhao, Junbo},
+    booktitle = {Advances in Neural Information Processing Systems 32},
+    editor = {H. Wallach and H. Larochelle and A. Beygelzimer and F. d\textquotesingle Alch\'{e}-Buc and E. Fox and R. Garnett},
+    pages = {11179--11189},
+    year = {2019},
+    publisher = {Curran Associates, Inc.},
+    url = {http://papers.nips.cc/paper/9297-levenshtein-transformer.pdf}
 }
 ```
