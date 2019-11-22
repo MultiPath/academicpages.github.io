@@ -25,7 +25,7 @@ a Levenshtein Transformer trained by machine translation can straightforwardly b
 used for automatic post-editing.
 
 [[paper]](https://papers.nips.cc/paper/9297-levenshtein-transformer.pdf) [[code]](https://github.com/pytorch/fairseq/blob/master/examples/nonautoregressive_translation/README.md)
-
+[[poster]](https://dl.fbaipublicfiles.com/nat/levenshtein_transformer_neurips_poster.pdf)
 
 Please cite as:
 ```bibtex
