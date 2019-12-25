@@ -1,5 +1,5 @@
 ---
-title: "Revisiting Self-Training For Neural Sequence Generation"
+title: "Revisiting Self-Training for Neural Sequence Generation"
 collection: publications
 permalink: /publication/revisit-self-training
 excerpt: "Junxian He^, **Jiatao Gu**^, Jiajun Shen and Marc'Aurelio Ranzato"
