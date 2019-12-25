@@ -1,7 +1,7 @@
 ---
 title: "Depth-Adaptive Transformer"
 collection: publications
-permalink: /publication/revisit-self-training
+permalink: /publication/depth-adaptive-transformer
 excerpt: "Maha Elbayad, **Jiatao Gu**, Edouard Grave, Michael Auli"
 date: 2020-04-26
 venue: 'International Conference on Learning Representations (ICLR)'
