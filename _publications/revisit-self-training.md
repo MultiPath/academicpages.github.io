@@ -1,10 +1,10 @@
 ---
 title: "Revisiting Self-Training For Neural Sequence Generation"
-collection: arxiv
+collection: publications
 permalink: /publication/revisit-self-training
 excerpt: "Junxian He^, **Jiatao Gu**^, Jiajun Shen and Marc'Aurelio Ranzato"
-date: 2019-09-30
-venue: 'arxiv.org pre-print'
+date: 2020-04-26
+venue: 'International Conference on Learning Representations (ICLR)'
 ---
 
 ![png](/images/self_training.jpg)<br>
@@ -29,7 +29,8 @@ Please cite as:
 @article{he2019revisiting,
   title={Revisiting Self-Training for Neural Sequence Generation},
   author={He, Junxian and Gu, Jiatao and Shen, Jiajun and Ranzato, Marc'Aurelio},
-  journal={arXiv preprint arXiv:1909.13788},
-  year={2019}
+  journal={8th International Conference on Learning Representations, {ICLR} 2020,
+           Addis Ababa, Ethiopia, April 26-30, 2020, Conference Track Proceedings},
+  year={2020}
 }
 ```

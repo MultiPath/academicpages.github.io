@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/nonautoregressive-nmt
 excerpt: '**Jiatao Gu**, James Bradbury, Caiming Xiong, Victor O.K. Li and Richard Socher'
 date: 2018-04-30
-venue: '6th International Conference on Learning Representations (ICLR)'
+venue: 'International Conference on Learning Representations (ICLR)'
 ---
 
 ![png](/images/nat.png)<br>

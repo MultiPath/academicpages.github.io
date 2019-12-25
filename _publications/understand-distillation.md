@@ -1,10 +1,10 @@
 ---
 title: "Understanding Knowledge Distillation in Non-autoregressive Machine Translation"
-collection: arxiv
-permalink: /publication/understand_distillation
+collection: publications
+permalink: /publication/understand-distillation
 excerpt: "Chunting Zhou^, **Jiatao Gu**^, Graham Neubig"
-date: 2019-11-07
-venue: 'arxiv.org pre-print'
+date: 2020-04-26
+venue: 'International Conference on Learning Representations (ICLR)'
 ---
 
 ![png](/images/knowledge_distillation.jpg)<br>
@@ -18,7 +18,8 @@ Please cite as:
 @article{zhou2019understanding,
   title={Understanding Knowledge Distillation in Non-autoregressive Machine Translation},
   author={Zhou, Chunting and Gu, Jiatao and Neubig, Graham},
-  journal={arXiv preprint arXiv:1911.02727},
-  year={2019}
+  journal={8th International Conference on Learning Representations, {ICLR} 2020,
+           Addis Ababa, Ethiopia, April 26-30, 2020, Conference Track Proceedings},
+  year={2020}
 }
 ```
