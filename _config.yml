@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Jiatao Gu"
-  avatar           : "photo.jpg"
+  avatar           : "photo_crop.jpg"
   bio              : "Ph.D."
   location         : "New York, US"
   employer         : "Facebook AI Research"
