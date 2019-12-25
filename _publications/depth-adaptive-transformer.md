@@ -14,9 +14,9 @@ State of the art sequence-to-sequence models for large scale tasks perform a fix
 
 Please cite as:
 ```bibtex
-@article{he2019revisiting,
-  title={Revisiting Self-Training for Neural Sequence Generation},
-  author={He, Junxian and Gu, Jiatao and Shen, Jiajun and Ranzato, Marc'Aurelio},
+@article{elbayad2019depth,
+  title={Depth-Adaptive Transformer},
+  author={Elbayad, Maha and Gu, Jiatao and Grave, Edouard and Auli, Michael},
   journal={8th International Conference on Learning Representations, {ICLR} 2020,
            Addis Ababa, Ethiopia, April 26-30, 2020, Conference Track Proceedings},
   year={2020}
