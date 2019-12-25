@@ -10,7 +10,7 @@ redirect_from:
   - /about.html
 ---
 
-I am currently a research scientist at the [Facebook AI Research](https://research.fb.com/category/facebook-ai-research/) in New York City. My general research interests lie in applying deep learning approaches to natual language processing (NLP) problems. In particular, I am interested in building an efficient, effective and reliable neural machine translation (NMT) system for human languages.
+I am currently a research scientist at the [Facebook AI Research](https://research.fb.com/category/facebook-ai-research/) in New York City. My general research interests lie in applying deep learning approaches to natural language processing (NLP) problems. In particular, I am interested in building an efficient, effective and reliable neural machine translation (NMT) system for human languages.
 
 I obtained my Ph.D. degree at the department of Electrical and Electronic Engineering, University of Hong Kong in 2018 and I was supervised by [Prof. Victor O.K. Li](https://www.eee.hku.hk/people/vli/). 
 I spent a wonderful time visiting the [CILVR Lab](https://wp.nyu.edu/cilvr), New York University working with [Prof. Kyunghyun Cho](http://www.kyunghyuncho.me/).
