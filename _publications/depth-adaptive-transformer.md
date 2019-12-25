@@ -1,5 +1,5 @@
 ---
-title: "Revisiting Self-Training for Neural Sequence Generation"
+title: "Depth-Adaptive Transformer"
 collection: publications
 permalink: /publication/revisit-self-training
 excerpt: "Maha Elbayad, **Jiatao Gu**, Edouard Grave, Michael Auli"
