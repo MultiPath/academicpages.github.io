@@ -2,7 +2,7 @@
 title: "Monotonic Multihead Attention"
 collection: publications
 permalink: /publication/monotonic-multi-head
-excerpt: "Xutai Ma, Juan Pino, James Cross, Liezl Puzon, Jiatao Gu"
+excerpt: "Xutai Ma, Juan Pino, James Cross, Liezl Puzon, **Jiatao Gu**"
 date: 2020-04-26
 venue: 'International Conference on Learning Representations (ICLR)'
 ---
