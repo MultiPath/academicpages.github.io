@@ -11,6 +11,7 @@ redirect_from:
 ---
 
 I am currently a research scientist at the [Meta AI (FAIR team)](https://research.fb.com/category/facebook-ai-research/) in New York City. 
+
 My general research goal is to improve representation learning and generation of all kinds of data in the real world, including natural language, speech and vision. 
 I have been focusing on developing efficient and effective models for different modalities and leading multiple research directions, including non-autoregressive text generation and neural field-based image synthesis.
 
@@ -23,11 +24,11 @@ Before that, I obtained my Bachelor's degree at the Electronic Engineering Depar
 
 What's New?
 ------
-**2019-12-18**: Four [papers](/publication/understand-distillation) were accepted at **ICLR 2020**. See you in [Addis Ababa, ETHIOPIA](https://www.google.com/maps/place/Millennium+Hall/@8.9902942,38.7895542,15z/data=!4m2!3m1!1s0x0:0xbb84990929808c9a?sa=X&ved=2ahUKEwi6lZ7wmbrjAhWWFTQIHYFzAhMQ_BIwE3oECA4QCA)! <br>
+**2019-12-18**: Four [papers](/publication/understand-distillation) were accepted at **ICLR 2020**. <br>
 **2019-11-10**: One [paper](/publication/byte-level-nmt) was accepted at **AAAI 2020**. See you in New York :) <br>
 **2019-09-03**: One [paper](/publication/levenshtein-transformer) was accepted at **NeurIPS 2019**. See you in Vancouver!<br>
 **2019-08-12**: One demo paper was accepted to present at **EMNLP2019**!<br>
-**2019-07-24**: One paper was accepted at **TACL** and will be presented in **EMNLP2019**. See you in Hong Kong!<br>
+**2019-07-24**: One paper was accepted at **TACL** and will be presented in **EMNLP2019**.<br>
 **2019-05-14**: One paper was accepted at **ACL2019**!<br>
 **2019-03-29**: Two papers was accepted at **NAACL2019 NeuralGen Workshop**. See you in Minneapolis!<br>
 **2018-08-20**: I started my new position as a research scientist at Facebook AI Research (FAIR) in NYC.
