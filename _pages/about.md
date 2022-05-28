@@ -10,9 +10,11 @@ redirect_from:
   - /about.html
 ---
 
-I am currently a research scientist at the [Facebook AI Research](https://research.fb.com/category/facebook-ai-research/) in New York City. My general research interests lie in applying deep learning approaches to natural language processing (NLP) problems. In particular, I am interested in building an efficient, effective and reliable neural machine translation (NMT) system for human languages.
+I am currently a research scientist at the [Meta AI (FAIR team)](https://research.fb.com/category/facebook-ai-research/) in New York City. 
+My general research goal is to improve representation learning and generation of all kinds of data in the real world, including natural language, speech and vision. 
+I have been focusing on developing efficient and effective models for different modalities and leading multiple research directions, including non-autoregressive text generation and neural field-based image synthesis.
 
-I obtained my Ph.D. degree at the department of Electrical and Electronic Engineering, University of Hong Kong in 2018 and I was supervised by [Prof. Victor O.K. Li](https://www.eee.hku.hk/people/vli/). 
+I obtained my Ph.D. degree at the department of Electrical and Electronic Engineering, University of Hong Kong in 2018 and I was supervised by [Prof. Victor O.K. Li](https://www.eee.hku.hk/people/vli/). My doctoral work explored efficient neural machine translation systems.
 I spent a wonderful time visiting the [CILVR Lab](https://wp.nyu.edu/cilvr), New York University working with [Prof. Kyunghyun Cho](http://www.kyunghyuncho.me/).
 Before that, I obtained my Bachelor's degree at the Electronic Engineering Department, Tsinghua University in 2014 with the guidance of [Prof. Ji Wu](https://www.tsinghua.edu.cn/publish/eeen/3784/2010/20101219135614305780920/20101219135614305780920_.html).
 

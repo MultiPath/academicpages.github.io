@@ -25,9 +25,9 @@ Education
 
 Professional
 -------
-* **Research Scientist**
+* **Senior Research Scientist**
   * Aug 2018 - Now
-  * Facebook AI Research (FAIR), New York, NY, USA
+  * FAIR Labs @ Meta AI, New York, NY, USA
 
 * **Research Intern**
   * Sept 2017 - Dec 2017
