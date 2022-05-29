@@ -10,7 +10,7 @@ You can also find my articles on my [Google Scholar Profile](https://scholar.goo
 
 {% include base_path %}
 
-## Pre-prints (In progress)
+## Pre-print (In progress)
 {% for post in site.arxiv reversed %}
   {% include archive-single.html %}
 {% endfor %}

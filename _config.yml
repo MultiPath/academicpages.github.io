@@ -80,11 +80,11 @@ analytics:
 
 # Site Author
 author:
-  name             : "Jiatao Gu"
+  name             : "Jiatao Gu (顾佳涛)"
   avatar           : "photo_crop.jpg"
   bio              : "Ph.D."
   location         : "New York, US"
-  employer         : "Facebook AI Research"
+  employer         : "Meta AI"
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=cB1mFBsAAAAJ"
   email            : "jgu@fb.com"
@@ -111,7 +111,7 @@ author:
   tumblr           :
   twitter          : "thoma_gu"
   vine             :
-  weibo            : "3252349540"
+  weibo            :
   xing             :
   youtube          :
   wikipedia        :

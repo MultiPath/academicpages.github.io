@@ -4,7 +4,7 @@ title: About Me
 description: "Jiatao Gu's website"
 author_profile: true
 image:
-  feature: blackhole.png
+  feature: background.png
 redirect_from: 
   - /about/
   - /about.html
