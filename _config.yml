@@ -7,10 +7,10 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Jiatao Gu's Site"
+title                    : "Jiatao Gu"
 title_separator          : "-"
 name                     : &name "Jiatao Gu"
-description              : &description "I am a research scientist at Facebook AI Research."
+description              : &description "I am a research scientist at FAIR."
 url                      : "https://jiataogu.me" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "MultiPath/multipath.github.io"
@@ -82,9 +82,9 @@ analytics:
 author:
   name             : "Jiatao Gu (顾佳涛)"
   avatar           : "photo_crop.jpg"
-  bio              : "Ph.D."
-  location         : "New York, US"
-  employer         : "Meta AI"
+  bio              : "Research Scientist @ Meta AI (FAIR Labs), Ph.D."
+  location         : "New York, NY, USA"
+  employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=cB1mFBsAAAAJ"
   email            : "jgu@fb.com"

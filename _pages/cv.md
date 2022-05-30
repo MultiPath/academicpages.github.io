@@ -3,8 +3,8 @@ layout: archive
 title: "Experience"
 permalink: /cv/
 author_profile: true
-redirect_from:
-  - /resume
+# image:
+#   feature: background.png
 ---
 
 {% include base_path %}
@@ -41,21 +41,21 @@ Professional
 
 * **Visiting Scholar**
   * Jun 2016 - Jan 2017
-  * Courant Institute of Mathematical Sciences<br>New York University, New York, NY, USA
+  * Courant Institute of Mathematical Sciences, New York University, New York, NY, USA
   * Advisor: Prof. Kyunghyun Cho
 
-* **Research Intern**
+* **Student Collaborator**
   * Aug 2015 - May 2016
   * Huawei Noah's Ark Lab, Hong Kong, China
   * Advisor: Dr. Zhengdong Lu
 
-* **Software Engineer**
+* **Software Engineer Intern**
   * Oct 2013 - Apr 2014
   * Renren Inc., Beijing, China
 
 * **Exchange Student**
   * Oct 2012 - Mar 2013
-  * Information and Communication Engineering<br>The University of Tokyo, Tokyo, Japan
+  * Information and Communication Engineering, The University of Tokyo, Tokyo, Japan
   * Advisor: Prof. Hitoshi Iba
 
 <!-- Skills

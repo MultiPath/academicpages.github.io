@@ -5,9 +5,9 @@ description: "Jiatao Gu's website"
 author_profile: true
 image:
   feature: background.png
-redirect_from: 
-  - /about/
-  - /about.html
+# redirect_from: 
+#   - /about/
+#   - /about.html
 ---
 
 I am currently a research scientist at the [Meta AI (FAIR team)](https://research.fb.com/category/facebook-ai-research/) in New York City. 
@@ -15,9 +15,9 @@ I am currently a research scientist at the [Meta AI (FAIR team)](https://researc
 My general research goal is to improve representation learning and generation of all kinds of data in the real world, including natural language, speech and vision. 
 I have been focusing on developing efficient and effective models for different modalities and leading multiple research directions, including non-autoregressive text generation and neural field-based image synthesis.
 
-I obtained my Ph.D. degree at the department of Electrical and Electronic Engineering, University of Hong Kong in 2018 and I was supervised by [Prof. Victor O.K. Li](https://www.eee.hku.hk/people/vli/). My doctoral work explored efficient neural machine translation systems.
+I obtained my Ph.D. degree at [the department of Electrical and Electronic Engineering, University of Hong Kong](http://www.eee.hku.hk/) in 2018 and I was supervised by [Prof. Victor O.K. Li](https://www.eee.hku.hk/people/vli/). My doctoral work explored efficient neural machine translation systems.
 I spent a wonderful time visiting the [CILVR Lab](https://wp.nyu.edu/cilvr), New York University working with [Prof. Kyunghyun Cho](http://www.kyunghyuncho.me/).
-Before that, I obtained my Bachelor's degree at the Electronic Engineering Department, Tsinghua University in 2014 with the guidance of [Prof. Ji Wu](https://www.tsinghua.edu.cn/publish/eeen/3784/2010/20101219135614305780920/20101219135614305780920_.html).
+Before that, I obtained my Bachelor's degree at [the Electronic Engineering Department, Tsinghua University](https://www.ee.tsinghua.edu.cn/en/) in 2014 with the guidance of [Prof. Ji Wu](https://www.tsinghua.edu.cn/publish/eeen/3784/2010/20101219135614305780920/20101219135614305780920_.html).
 
 
 <!-- Many of the features of dynamic content management systems (like Wordpress) can be achieved in this fashion, using a fraction of the computational resources and with far less vulnerability to hacking and DDoSing. You can also modify the theme to your heart's content without touching the content of your site. If you get to a point where you've broken something in Jekyll/HTML/CSS beyond repair, your markdown files describing your talks, publications, etc. are safe. You can rollback the changes or even delete the repository and start over -- just be sure to save the markdown files! Finally, you can also write scripts that process the structured data on the site, such as [this one](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb) that analyzes metadata in pages about talks to display [a map of every location you've given a talk](https://academicpages.github.io/talkmap.html). -->
