@@ -1,0 +1,12 @@
+@article{2110.08985v1,
+Author        = {Jiatao Gu and Lingjie Liu and Peng Wang and Christian Theobalt},
+Title         = {StyleNeRF: A Style-based 3D-Aware Generator for High-resolution Image
+  Synthesis},
+Eprint        = {2110.08985v1},
+ArchivePrefix = {arXiv},
+PrimaryClass  = {cs.CV},
+Year          = {2021},
+Month         = {Oct},
+Url           = {http://arxiv.org/abs/2110.08985v1},
+File          = {2110.08985v1.pdf}
+}

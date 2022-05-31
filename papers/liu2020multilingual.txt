@@ -1,0 +1,9 @@
+@article{liu2020multilingual,
+  title={Multilingual denoising pre-training for neural machine translation},
+  author={Liu, Yinhan and Gu, Jiatao and Goyal, Naman and Li, Xian and Edunov, Sergey and Ghazvininejad, Marjan and Lewis, Mike and Zettlemoyer, Luke},
+  journal={Transactions of the Association for Computational Linguistics},
+  volume={8},
+  pages={726--742},
+  year={2020},
+  publisher={MIT Press}
+}

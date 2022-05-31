@@ -1,65 +1,88 @@
 ---
-permalink: /
-title: About Me
-description: "Jiatao Gu's website"
-author_profile: true
-image:
-  feature: background.png
-# redirect_from: 
-#   - /about/
-#   - /about.html
+title: "About"
+layout: gridlay
+sitemap: false
+permalink: /about/
 ---
 
-I am currently a research scientist at the [Meta AI (FAIR team)](https://research.fb.com/category/facebook-ai-research/) in New York City. 
-
-My general research goal is to improve representation learning and generation of all kinds of data in the real world, including natural language, speech and vision. 
-I have been focusing on developing efficient and effective models for different modalities and leading multiple research directions, including non-autoregressive text generation and neural field-based image synthesis.
-
-I obtained my Ph.D. degree at [the department of Electrical and Electronic Engineering, University of Hong Kong](http://www.eee.hku.hk/) in 2018 and I was supervised by [Prof. Victor O.K. Li](https://www.eee.hku.hk/people/vli/). My doctoral work explored efficient neural machine translation systems.
-I spent a wonderful time visiting the [CILVR Lab](https://wp.nyu.edu/cilvr), New York University working with [Prof. Kyunghyun Cho](http://www.kyunghyuncho.me/).
-Before that, I obtained my Bachelor's degree at [the Electronic Engineering Department, Tsinghua University](https://www.ee.tsinghua.edu.cn/en/) in 2014 with the guidance of [Prof. Ji Wu](https://www.tsinghua.edu.cn/publish/eeen/3784/2010/20101219135614305780920/20101219135614305780920_.html).
+## About 
 
 
-<!-- Many of the features of dynamic content management systems (like Wordpress) can be achieved in this fashion, using a fraction of the computational resources and with far less vulnerability to hacking and DDoSing. You can also modify the theme to your heart's content without touching the content of your site. If you get to a point where you've broken something in Jekyll/HTML/CSS beyond repair, your markdown files describing your talks, publications, etc. are safe. You can rollback the changes or even delete the repository and start over -- just be sure to save the markdown files! Finally, you can also write scripts that process the structured data on the site, such as [this one](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb) that analyzes metadata in pages about talks to display [a map of every location you've given a talk](https://academicpages.github.io/talkmap.html). -->
+{% for member in site.data.pi %}
 
-What's New?
-------
-**2019-12-18**: Four [papers](/publication/understand-distillation) were accepted at **ICLR 2020**. <br>
-**2019-11-10**: One [paper](/publication/byte-level-nmt) was accepted at **AAAI 2020**. See you in New York :) <br>
-**2019-09-03**: One [paper](/publication/levenshtein-transformer) was accepted at **NeurIPS 2019**. See you in Vancouver!<br>
-**2019-08-12**: One demo paper was accepted to present at **EMNLP2019**!<br>
-**2019-07-24**: One paper was accepted at **TACL** and will be presented in **EMNLP2019**.<br>
-**2019-05-14**: One paper was accepted at **ACL2019**!<br>
-**2019-03-29**: Two papers was accepted at **NAACL2019 NeuralGen Workshop**. See you in Minneapolis!<br>
-**2018-08-20**: I started my new position as a research scientist at Facebook AI Research (FAIR) in NYC.
+<div class="row">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" width="30%" style="float: left" />
+  <h3>{{ member.name }}</h3>
+  <i style="font-size:20px">{{ member.info }}</i><br>
 
-<!-- 1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
-1. Fork [this repository](https://github.com/academicpages/academicpages.github.io) by clicking the "fork" button in the top right. 
-1. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
-1. Set site-wide configuration and create content & metadata (see below -- also see [this set of diffs](http://archive.is/3TPas) showing what files were changed to set up [an example site](https://getorg-testacct.github.io) for a user with the username "getorg-testacct")
-1. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
-1. Check status by going to the repository settings, in the "GitHub pages" section -->
+  {% if member.website %}<a href="{{ member.website }}" target="_blank"><i class="fa fa-home fa-3x"></i></a> {% endif %}
+  {% if member.email %}<a href="mailto:{{ member.email }}" target="_blank"><i class="fa fa-envelope-square fa-3x"></i></a> {% endif %}
+  {% if member.scholar %} <a href="{{ member.scholar }}" target="_blank"><i class="ai ai-google-scholar-square ai-3x"></i></a> {% endif %}
+  {% if member.linkedin %}<a href="mailto:{{ member.linkedin }}" target="_blank"><i class="fa fa-linkedin-square fa-3x"></i></a> {% endif %}
+  {% if member.twitter %} <a href="{{ member.twitter }}" target="_blank"><i class="fa fa-twitter-square fa-3x"></i></a> {% endif %}
+  {% if member.cv %} <a href="{{ member.cv }}" target="_blank"><i class="ai ai-cv-square ai-3x"></i></a> {% endif %}
+  {% if member.github %} <a href="{{ member.github }}" target="_blank"><i class="fa fa-github-square fa-3x"></i></a> {% endif %}
+  {% if member.researchgate %} <a href="{{ member.researchgate }}" target="_blank"><i class="ai ai-researchgate-square ai-3x"></i></a> {% endif %}
+  <ul style="overflow: hidden">
+  
+  <li> 09/2014 - 08/2018, Ph.D. <br> 
+       Electrical and Electronic Engineering (EEE), The University of Hong Kong <br> 
+       Supervisor: <a href="https://www.eee.hku.hk/people/vli/" target="_blank">Prof. Victor O.K. Li</a> </li>
+  <li> 09/2010-07/2014, B.Eng. <br> 
+       Electronic Engineering (EE), Tsinghua University </li>
 
-<!-- Site-wide configuration
-------
-The main configuration file for the site is in the base directory in [_config.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_config.yml), which defines the content in the sidebars and other site-wide features. You will need to replace the default variables with ones about yourself and your site's github repository. The configuration file for the top menu is in [_data/navigation.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_data/navigation.yml). For example, if you don't have a portfolio or blog posts, you can remove those items from that navigation.yml file to remove them from the header. 
+  </ul>
+</div>
 
-Create content & metadata
-------
-For site content, there is one markdown file for each type of content, which are stored in directories like _publications, _talks, _posts, _teaching, or _pages. For example, each talk is a markdown file in the [_talks directory](https://github.com/academicpages/academicpages.github.io/tree/master/_talks). At the top of each markdown file is structured data in YAML about the talk, which the theme will parse to do lots of cool stuff. The same structured data about a talk is used to generate the list of talks on the [Talks page](https://academicpages.github.io/talks), each [individual page](https://academicpages.github.io/talks/2012-03-01-talk-1) for specific talks, the talks section for the [CV page](https://academicpages.github.io/cv), and the [map of places you've given a talk](https://academicpages.github.io/talkmap.html) (if you run this [python file](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.py) or [Jupyter notebook](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb), which creates the HTML for the map based on the contents of the _talks directory).
+{% endfor %}
 
-**Markdown generator**
+### Professional Experience
+-------
+* **Senior Research Scientist**
+  * 08/2018 - Present
+  * FAIR Labs @ Meta AI, New York, NY, USA
 
-I have also created [a set of Jupyter notebooks](https://github.com/academicpages/academicpages.github.io/tree/master/markdown_generator
-) that converts a CSV containing structured data about talks or presentations into individual markdown files that will be properly formatted for the academicpages template. The sample CSVs in that directory are the ones I used to create my own personal website at stuartgeiger.com. My usual workflow is that I keep a spreadsheet of my publications and talks, then run the code in these notebooks to generate the markdown files, then commit and push them to the GitHub repository.
+* **Research Intern**
+  * 09/2017 - 12/2017
+  * Salesforce Research, Palo Alto, CA, USA
+  * Advisor: Dr. Richard Socher
 
-How to edit your site's GitHub repository
-------
-Many people use a git client to create files on their local computer and then push them to GitHub's servers. If you are not familiar with git, you can directly edit these configuration and markdown files directly in the github.com interface. Navigate to a file (like [this one](https://github.com/academicpages/academicpages.github.io/blob/master/_talks/2012-03-01-talk-1.md) and click the pencil icon in the top right of the content preview (to the right of the "Raw | Blame | History" buttons). You can delete a file by clicking the trashcan icon to the right of the pencil icon. You can also create new files or upload files by navigating to a directory and clicking the "Create new file" or "Upload files" buttons. 
+* **Research Intern**
+  * 04/2017 - 08/2017
+  * Microsoft Research, Redmond, WA, USA
+  * Advisor: Dr. Hany Hassan
 
-Example: editing a markdown file for a talk
-![Editing a markdown file for a talk](/images/editing-talk.png)
+* **Visiting Scholar**
+  * 06/2016 - 01/2017
+  * Courant Institute of Mathematical Sciences, New York University, New York, NY, USA
+  * Advisor: Prof. Kyunghyun Cho
 
-For more info
-------
-More info about configuring academicpages can be found in [the guide](https://academicpages.github.io/markdown/). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful. -->
+* **Student Collaborator**
+  * 08/2015 - 05/2016
+  * Huawei Noah's Ark Lab, Hong Kong, China
+  * Advisor: Dr. Zhengdong Lu
+
+* **Software Engineer Intern**
+  * 10/2013 - 04/2014
+  * Renren Inc., Beijing, China
+
+* **Exchange Student**
+  * 10/2012 - 03/2013
+  * Information and Communication Engineering, The University of Tokyo, Tokyo, Japan
+  * Advisor: Prof. Hitoshi Iba
+
+## Collaborators
+
+<!-- * <a href="http://colonius.caltech.edu/" target="_blank">Professor Tim Colonius (Department of Mechanical and Civil Engineering, Caltech)</a>
+* <a href="https://www.imperial.ac.uk/people/g.rigas" target="_blank">Professor Georgios Rigas (Department of Aeronautics, Imperial College London)</a>
+* <a href="http://flowphysics.ucsd.edu/" target="_blank">Professor Oliver Schmidt (Department of Mechanical and Aerospace Engineering, UC San Diego)</a>
+* <a href="http://atowne.com/" target="_blank">Professor Aaron Towne (Department of Mechanical Engineering, University of Michigan)</a>
+* <a href="https://scholar.google.fr/citations?user=X7P6FUEAAAAJ&hl=fr" target="_blank"> Dr. Peter Jordan (Institut Pprime, CNRS, Universit ́e de Poitiers )</a>
+* <a href="http://denissipp.free.fr/" target="_blank"> Dr. Denis Sipp (Research Director at ONERA)</a>
+* <a href="http://www.ita.br/~cavalieri" target="_blank"> Professor Andre Cavalieri (Engenharia Aeronáutica, Instituto Tecnológico de Aeronáutica)</a>
+* <a href="https://www.cascadetechnologies.com/" target="_blank"> Dr. Guillaume Brès (Director of Operations and Senior Research Scientist, CASCADE Technologies)</a> -->
+
+
+
+
+

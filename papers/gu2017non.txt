@@ -1,0 +1,11 @@
+@article{1711.02281v2,
+Author        = {Jiatao Gu and James Bradbury and Caiming Xiong and Victor O. K. Li and Richard Socher},
+Title         = {Non-Autoregressive Neural Machine Translation},
+Eprint        = {1711.02281v2},
+ArchivePrefix = {arXiv},
+PrimaryClass  = {cs.CL},
+Year          = {2017},
+Month         = {Nov},
+Url           = {http://arxiv.org/abs/1711.02281v2},
+File          = {1711.02281v2.pdf}
+}

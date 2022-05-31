@@ -1,0 +1,30 @@
+- title: Non-Autoregressive Neural Machine Translation
+  authors: Jiatao Gu, James Bradbury, Caiming Xiong, Victor OK Li, Richard Socher
+  url: gu2017non
+  image: gu2017non.png
+  display: <b>ICLR 2018</b>
+  year: 2018
+  arxiv: "1711.02281"
+  code: https://github.com/salesforce/nonauto-nmt
+  abstract: "Existing approaches to neural machine translation condition each output word on previously generated outputs. We introduce a model that avoids this autoregressive property and produces its outputs in parallel, allowing an order of magnitude lower latency during inference. Through knowledge distillation, the use of input token fertilities as a latent variable, and policy gradient fine-tuning, we achieve this at a cost of as little as 2.0 BLEU points relative to the autoregressive Transformer network used as a teacher. We demonstrate substantial cumulative improvements associated with each of the three aspects of our training strategy, and validate our approach on IWSLT 2016 English-German and two WMT language pairs. By sampling fertilities in parallel at inference time, our non-autoregressive model achieves near-state-of-the-art performance of 29.8 BLEU on WMT 2016 English-Romanian."
+
+- title: Multilingual denoising pre-training for neural machine translation
+  authors: Yinhan Liu*, Jiatao Gu*, Naman Goyal, Xian Li, Sergey Edunov, Marjan Ghazvininejad, Mike Lewis, Luke Zettlemoyer
+  url: liu2020multilingual
+  image: liu2020multilingual.png
+  display: <b>TACL 2020</b>
+  year: 2020
+  arxiv: "2001.08210"
+  code: https://github.com/facebookresearch/fairseq/blob/main/examples/mbart/README.md
+  abstract: This paper demonstrates that multilingual denoising pre-training produces significant performance gains across a wide variety of machine translation (MT) tasks. We present mBART—a sequence-to-sequence denoising auto-encoder pre-trained on large-scale monolingual corpora in many languages using the BART objective (Lewis et al., 2019). mBART is the first method for pre-training a complete sequence-to-sequence model by denoising full texts in multiple languages, whereas previous approaches have focused only on the encoder, decoder, or reconstructing parts of the text. Pre-training a complete model allows it to be directly fine-tuned for supervised (both sentence-level and document-level) and unsupervised machine translation, with no task- specific modifications. We demonstrate that adding mBART initialization produces performance gains in all but the highest-resource settings, including up to 12 BLEU points for low resource MT and over 5 BLEU points for many document-level and unsupervised models. We also show that it enables transfer to language pairs with no bi-text or that were not in the pre-training corpus, and present extensive analysis of which factors contribute the most to effective pre-training.
+
+- title: "Stylenerf: A style-based 3d-aware generator for high-resolution image synthesis"
+  authors: Jiatao Gu, Lingjie Liu, Peng Wang, Christian Theobalt
+  url: gu2021stylenerf
+  image: gu2021stylenerf.jpg
+  display: <b> ICLR 2022 </b>
+  year: 2022
+  arxiv: "2110.08985"
+  code: https://github.com/facebookresearch/StyleNeRF
+  abstract: We propose StyleNeRF, a 3D-aware generative model for photo-realistic high-resolution image synthesis with high multi-view consistency, which can be trained on unstructured 2D images. Existing approaches either cannot synthesize high-resolution images with fine details or yield noticeable 3D-inconsistent artifacts. In addition, many of them lack control over style attributes and explicit 3D camera poses. StyleNeRF integrates the neural radiance field (NeRF) into a style-based generator to tackle the aforementioned challenges, i.e., improving rendering efficiency and 3D consistency for high-resolution image generation. We perform volume rendering only to produce a low-resolution feature map and progressively apply upsampling in 2D to address the first issue. To mitigate the inconsistencies caused by 2D upsampling, we propose multiple designs, including a better upsampler and a new regularization loss. With these designs, StyleNeRF can synthesize high-resolution images at interactive rates while preserving 3D consistency at high quality. StyleNeRF also enables control of camera poses and different levels of styles, which can generalize to unseen views. It also supports challenging tasks, including zoom-in and-out, style mixing, inversion, and semantic editing.
+
